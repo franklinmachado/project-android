@@ -69,6 +69,7 @@ nav {
     padding: 10px;
     padding-right: 35px;
     line-height: 35px;
+    white-space: nowrap;
 }
 
 nav > a {
